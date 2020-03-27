@@ -12,5 +12,4 @@
 
 > Adicional de Styled Components 
 
-https://s3.amazonaws.com/img0.recordit.co/WyD40UX2R1.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1585287985&Signature=8k061zJquIoOty0V6%2FWNXPOLSVQ%3D
-
+![Example](https://s3.amazonaws.com/img0.recordit.co/WyD40UX2R1.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1585287985&Signature=8k061zJquIoOty0V6%2FWNXPOLSVQ%3D)
